@@ -1,5 +1,6 @@
-#Small modification of the bot, actually showing SMON Token for Groovy Gang discord group.
+# Small modification of the original source code of the bot.
 
+Actually showing SMON Token for Groovy Gang discord group.
 Original repository: https://github.com/cferreras/Cryptocurrency-Status-Discord-Bot
 
 # Cryptocurrency Price Status Discord Bot
